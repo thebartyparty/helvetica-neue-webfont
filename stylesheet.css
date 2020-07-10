@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Helvetica Neue';
-    src: url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Bold.woff2?raw=true') format('woff2'),
-        url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Bold.woff?raw=true') format('woff');
+    src: url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Bold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Helvetica Neue';
-    src: url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Light.woff2?raw=true') format('woff2'),
-        url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Light.woff?raw=true') format('woff');
+    src: url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Light.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'Helvetica Neue';
-    src: url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Medium.woff2?raw=true') format('woff2'),
-        url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Medium.woff?raw=true') format('woff');
+    src: url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Medium.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'HelveticaNeue';
-    src: url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeueRegular.woff2?raw=true') format('woff2'),
-        url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeueRegular.woff?raw=true') format('woff');
+    src: url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeueRegular.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeueRegular.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: 'Helvetica Neue';
-    src: url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Thin.woff2?raw=true') format('woff2'),
-        url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Thin.woff?raw=true') format('woff');
+    src: url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Thin.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -45,8 +45,8 @@
 
 @font-face {
     font-family: 'Helvetica Neue';
-    src: url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue.woff2?raw=true') format('woff2'),
-        url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue.woff?raw=true') format('woff');
+    src: url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -54,8 +54,8 @@
 
 @font-face {
     font-family: 'Helvetica Neue';
-    src: url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Italic.woff2?raw=true') format('woff2'),
-        url('https://github.com/thebartyparty/helvetica-neue-webfont/blob/master/HelveticaNeue-Italic.woff?raw=true') format('woff');
+    src: url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Italic.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/thebartyparty/helvetica-neue-webfont/master/HelveticaNeue-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
